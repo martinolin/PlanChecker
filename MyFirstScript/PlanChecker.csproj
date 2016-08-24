@@ -1,0 +1,256 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{DC057220-B078-4470-BC87-8A7B9B6DEBD4}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>PlanChecker</RootNamespace>
+    <AssemblyName>PlanChecker.esapi</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x64'">
+    <DebugSymbols>true</DebugSymbols>
+    <OutputPath>bin\x64\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <DebugType>full</DebugType>
+    <PlatformTarget>x64</PlatformTarget>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisIgnoreBuiltInRuleSets>true</CodeAnalysisIgnoreBuiltInRuleSets>
+    <CodeAnalysisIgnoreBuiltInRules>true</CodeAnalysisIgnoreBuiltInRules>
+    <CodeAnalysisFailOnMissingRules>true</CodeAnalysisFailOnMissingRules>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|x64'">
+    <OutputPath>bin\x64\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <Optimize>true</Optimize>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>x64</PlatformTarget>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisIgnoreBuiltInRuleSets>true</CodeAnalysisIgnoreBuiltInRuleSets>
+    <CodeAnalysisIgnoreBuiltInRules>true</CodeAnalysisIgnoreBuiltInRules>
+    <CodeAnalysisFailOnMissingRules>true</CodeAnalysisFailOnMissingRules>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="PresentationCore" />
+    <Reference Include="PresentationFramework" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+    <Reference Include="VMS.TPS.Common.Model.API, Version=13.6.30.20230, Culture=neutral, processorArchitecture=AMD64">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\x64\Debug\VMS.TPS.Common.Model.API.dll</HintPath>
+    </Reference>
+    <Reference Include="VMS.TPS.Common.Model.Interface, Version=13.6.30.20230, Culture=neutral, processorArchitecture=AMD64">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\x64\Debug\VMS.TPS.Common.Model.Interface.dll</HintPath>
+    </Reference>
+    <Reference Include="VMS.TPS.Common.Model.Types, Version=13.6.30.20230, Culture=neutral, processorArchitecture=AMD64">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\x64\Debug\VMS.TPS.Common.Model.Types.dll</HintPath>
+    </Reference>
+    <Reference Include="WindowsBase" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Criterion\AboveDoseAbsAtVolumeAbsCriterion.cs" />
+    <Compile Include="Criterion\AboveDoseAbsAtVolumeRelCriterion.cs" />
+    <Compile Include="Criterion\AboveDoseRelAtVolumeAbsCriterion.cs" />
+    <Compile Include="Criterion\AboveMaxDoseAbs.cs" />
+    <Compile Include="Criterion\AboveMaxDoseRel.cs" />
+    <Compile Include="Criterion\AboveMeanDoseAbs.cs" />
+    <Compile Include="Criterion\AboveMeanDoseRel.cs" />
+    <Compile Include="Criterion\AboveMedianDoseAbs.cs" />
+    <Compile Include="Criterion\AboveMedianDoseRel.cs" />
+    <Compile Include="Criterion\AboveMinDoseAbs.cs" />
+    <Compile Include="Criterion\AboveMinDoseRel.cs" />
+    <Compile Include="Criterion\AboveVolumeAbsAtDoseAbsCriterion.cs" />
+    <Compile Include="Criterion\AboveVolumeAbsAtDoseRelCriterion.cs" />
+    <Compile Include="Criterion\AboveVolumeRelAtDoseAbsCriterion.cs" />
+    <Compile Include="Criterion\AboveVolumeRelAtDoseRelCriterion.cs" />
+    <Compile Include="AdminSite\AdminSite.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AdminSite\AdminSite.Designer.cs">
+      <DependentUpon>AdminSite.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Criterion\BelowDoseAbsAtVolumeAbsCriterion.cs" />
+    <Compile Include="Criterion\BelowDoseAbsAtVolumeRelCriterion.cs" />
+    <Compile Include="Criterion\BelowDoseRelAtVolumeAbsCriterion.cs" />
+    <Compile Include="Criterion\BelowDoseRelAtVolumeRelCriterion.cs" />
+    <Compile Include="Criterion\BelowMaxDoseAbs.cs" />
+    <Compile Include="Criterion\BelowMaxDoseRel.cs" />
+    <Compile Include="Criterion\BelowMeanDoseAbs.cs" />
+    <Compile Include="Criterion\BelowMeanDoseRel.cs" />
+    <Compile Include="Criterion\BelowMedianDoseAbs.cs" />
+    <Compile Include="Criterion\BelowMedianDoseRel.cs" />
+    <Compile Include="Criterion\BelowMinDoseAbs.cs" />
+    <Compile Include="Criterion\BelowMinDoseRel.cs" />
+    <Compile Include="Criterion\BelowVolumeAbsAtDoseAbsCriterion.cs" />
+    <Compile Include="Criterion\BelowVolumeAbsAtDoseRelCriterion.cs" />
+    <Compile Include="Criterion\BelowVolumeRelAtDoseAbsCriterion.cs" />
+    <Compile Include="Criterion\BelowVolumeRelAtDoseRelCriterion.cs" />
+    <Compile Include="Criterion\AboveStrictDoseAbsAtVolumeAbsCriterion.cs" />
+    <Compile Include="Criterion\AboveStrictDoseAbsAtVolumeRelCriterion.cs" />
+    <Compile Include="Criterion\AboveStrictDoseRelAtVolumeAbsCriterion.cs" />
+    <Compile Include="Criterion\AboveStrictDoseRelAtVolumeRelCriterion.cs" />
+    <Compile Include="Criterion\AboveStrictMaxDoseAbs.cs" />
+    <Compile Include="Criterion\AboveStrictMaxDoseRel.cs" />
+    <Compile Include="Criterion\AboveStrictMeanDoseAbs.cs" />
+    <Compile Include="Criterion\AboveStrictMeanDoseRel.cs" />
+    <Compile Include="Criterion\AboveStrictMedianDoseAbs.cs" />
+    <Compile Include="Criterion\AboveStrictMedianDoseRel.cs" />
+    <Compile Include="Criterion\AboveStrictMinDoseAbs.cs" />
+    <Compile Include="Criterion\AboveStrictMinDoseRel.cs" />
+    <Compile Include="Criterion\AboveStrictVolumeAbsAtDoseAbsCriterion.cs" />
+    <Compile Include="Criterion\AboveStrictVolumeAbsAtDoseRelCriterion.cs" />
+    <Compile Include="Criterion\AboveStrictVolumeRelAtDoseAbsCriterion.cs" />
+    <Compile Include="Criterion\AboveStrictVolumeRelAtDoseRelCriterion.cs" />
+    <Compile Include="Criterion\BelowStrictDoseAbsAtVolumeAbsCriterion.cs" />
+    <Compile Include="Criterion\BelowStrictDoseAbsAtVolumeRelCriterion.cs" />
+    <Compile Include="Criterion\BelowStrictDoseRelAtVolumeAbsCriterion.cs" />
+    <Compile Include="Criterion\BelowStrictDoseRelAtVolumeRelCriterion.cs" />
+    <Compile Include="Criterion\BelowStrictMaxDoseAbs.cs" />
+    <Compile Include="Criterion\BelowStrictMaxDoseRel.cs" />
+    <Compile Include="Criterion\BelowStrictMeanDoseAbs.cs" />
+    <Compile Include="Criterion\BelowStrictMeanDoseRel.cs" />
+    <Compile Include="Criterion\BelowStrictMedianDoseAbs.cs" />
+    <Compile Include="Criterion\BelowStrictMedianDoseRel.cs" />
+    <Compile Include="Criterion\BelowStrictMinDoseAbs.cs" />
+    <Compile Include="Criterion\BelowStrictMinDoseRel.cs" />
+    <Compile Include="Criterion\BelowStrictVolumeAbsAtDoseAbsCriterion.cs" />
+    <Compile Include="Criterion\BelowStrictVolumeAbsAtDoseRelCriterion.cs" />
+    <Compile Include="Criterion\BelowStrictVolumeRelAtDoseAbsCriterion.cs" />
+    <Compile Include="Criterion\BelowStrictVolumeRelAtDoseRelCriterion.cs" />
+    <Compile Include="Criterion\Criterion.cs" />
+    <Compile Include="DataBase.cs" />
+    <Compile Include="Criterion\AboveDoseRelAtVolumeRelCriterion.cs" />
+    <Compile Include="IncreaseListOfCriteria.cs" />
+    <Compile Include="Script\HelpWindow.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Script\HelpWindow.Designer.cs">
+      <DependentUpon>HelpWindow.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Script\Highlight.cs" />
+    <Compile Include="AdminSite\HighlighterEditor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AdminSite\HighlighterEditor.Designer.cs">
+      <DependentUpon>HighlighterEditor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Script\MainWindow.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Script\MainWindow.Designer.cs">
+      <DependentUpon>MainWindow.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Protocol\PlanSumProtocol.cs" />
+    <Compile Include="Script\PlanSumProtocolMatching.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Script\PlanSumProtocolMatching.Designer.cs">
+      <DependentUpon>PlanSumProtocolMatching.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Protocol\Protocol.cs" />
+    <Compile Include="ProtocolManager.cs" />
+    <Compile Include="Script\Script.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Serialization.cs" />
+    <Compile Include="AdminSite\SetNameSimilarity.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AdminSite\SetNameSimilarity.Designer.cs">
+      <DependentUpon>SetNameSimilarity.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AdminSite\SetPrefix.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AdminSite\SetPrefix.Designer.cs">
+      <DependentUpon>SetPrefix.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SettingsScript.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+      <DependentUpon>SettingsScript.settings</DependentUpon>
+    </Compile>
+    <Compile Include="Structure.cs" />
+    <Compile Include="Protocol\UnknownProtocol.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="AdminSite\AdminSite.resx">
+      <DependentUpon>AdminSite.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Script\HelpWindow.resx">
+      <DependentUpon>HelpWindow.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AdminSite\HighlighterEditor.resx">
+      <DependentUpon>HighlighterEditor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Script\MainWindow.resx">
+      <DependentUpon>MainWindow.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Script\PlanSumProtocolMatching.resx">
+      <DependentUpon>PlanSumProtocolMatching.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AdminSite\SetNameSimilarity.resx">
+      <DependentUpon>SetNameSimilarity.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AdminSite\SetPrefix.resx">
+      <DependentUpon>SetPrefix.cs</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="app.config" />
+    <None Include="Resources\testbild1.png" />
+    <EmbeddedResource Include="SettingsScript.settings">
+      <Generator>PublicSettingsSingleFileGenerator</Generator>
+      <LastGenOutput>SettingsScript.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
