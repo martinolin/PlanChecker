@@ -1,0 +1,27 @@
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (15) Tror denna e för kliniken - 08-02\MyFirstScript\obj\x64\Debug\PlanChecker.AdminSite.resources
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (15) Tror denna e för kliniken - 08-02\MyFirstScript\obj\x64\Debug\PlanChecker.HelpWindow.resources
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (15) Tror denna e för kliniken - 08-02\MyFirstScript\obj\x64\Debug\PlanChecker.MainWindow.resources
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (15) Tror denna e för kliniken - 08-02\MyFirstScript\obj\x64\Debug\PlanChecker.PlanSumProtocolMatching.resources
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (15) Tror denna e för kliniken - 08-02\MyFirstScript\obj\x64\Debug\PlanChecker.Properties.Resources.resources
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (15) Tror denna e för kliniken - 08-02\MyFirstScript\obj\x64\Debug\PlanChecker.csproj.GenerateResource.Cache
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (15) Tror denna e för kliniken - 08-02\MyFirstScript\obj\x64\Debug\PlanChecker.dll
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (15) Tror denna e för kliniken - 08-02\MyFirstScript\obj\x64\Debug\PlanChecker.pdb
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (15) Tror denna e för kliniken - 08-02\MyFirstScript\bin\x64\Debug\PlanChecker.dll
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (15) Tror denna e för kliniken - 08-02\MyFirstScript\bin\x64\Debug\PlanChecker.pdb
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (15) Tror denna e för kliniken - 08-02\MyFirstScript\bin\x64\Debug\VMS.TPS.Common.Calculation.Interface.dll
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (15) Tror denna e för kliniken - 08-02\MyFirstScript\bin\x64\Debug\VMS.TPS.Common.Model.Types.xml
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (15) Tror denna e för kliniken - 08-02-working from here 0805\MyFirstScript\obj\x64\Debug\PlanChecker.csprojResolveAssemblyReference.cache
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (15) Tror denna e för kliniken - 08-02-working from here 0805\MyFirstScript\obj\x64\Debug\PlanChecker.AdminSite.resources
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (15) Tror denna e för kliniken - 08-02-working from here 0805\MyFirstScript\obj\x64\Debug\PlanChecker.HelpWindow.resources
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (15) Tror denna e för kliniken - 08-02-working from here 0805\MyFirstScript\obj\x64\Debug\PlanChecker.MainWindow.resources
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (15) Tror denna e för kliniken - 08-02-working from here 0805\MyFirstScript\obj\x64\Debug\PlanChecker.PlanSumProtocolMatching.resources
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (15) Tror denna e för kliniken - 08-02-working from here 0805\MyFirstScript\obj\x64\Debug\PlanChecker.Properties.Resources.resources
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (15) Tror denna e för kliniken - 08-02-working from here 0805\MyFirstScript\obj\x64\Debug\PlanChecker.csproj.GenerateResource.Cache
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (15) Tror denna e för kliniken - 08-02-working from here 0805\MyFirstScript\bin\x64\Debug\PlanChecker.esapi.dll
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (15) Tror denna e för kliniken - 08-02-working from here 0805\MyFirstScript\bin\x64\Debug\PlanChecker.esapi.pdb
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (15) Tror denna e för kliniken - 08-02-working from here 0805\MyFirstScript\obj\x64\Debug\PlanChecker.esapi.dll
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (15) Tror denna e för kliniken - 08-02-working from here 0805\MyFirstScript\obj\x64\Debug\PlanChecker.esapi.pdb
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (15) Tror denna e för kliniken - 08-02-working from here 0805\MyFirstScript\obj\x64\Debug\PlanChecker.SetPrefix.resources
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (15) Tror denna e för kliniken - 08-02-working from here 0805\MyFirstScript\bin\x64\Debug\PlanChecker.esapi.dll.config
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (15) Tror denna e för kliniken - 08-02-working from here 0805\MyFirstScript\obj\x64\Debug\PlanChecker.HighlighterEditor.resources
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (15) Tror denna e för kliniken - 08-02-working from here 0805\MyFirstScript\obj\x64\Debug\PlanChecker.SetNameSimilarity.resources

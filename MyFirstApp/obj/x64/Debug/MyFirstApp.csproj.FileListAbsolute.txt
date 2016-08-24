@@ -1,0 +1,531 @@
+C:\Users\187646\documents\visual studio 2010\Projects\MyFirstApp\MyFirstApp\bin\x64\Debug\MyFirstApp.exe
+C:\Users\187646\documents\visual studio 2010\Projects\MyFirstApp\MyFirstApp\bin\x64\Debug\MyFirstApp.pdb
+C:\Users\187646\documents\visual studio 2010\Projects\MyFirstApp\MyFirstApp\bin\x64\Debug\VMS.TPS.Common.Model.API.dll
+C:\Users\187646\documents\visual studio 2010\Projects\MyFirstApp\MyFirstApp\bin\x64\Debug\VMS.TPS.Common.Model.Types.dll
+C:\Users\187646\documents\visual studio 2010\Projects\MyFirstApp\MyFirstApp\bin\x64\Debug\VMS.TPS.Common.Calculation.Interface.dll
+C:\Users\187646\documents\visual studio 2010\Projects\MyFirstApp\MyFirstApp\bin\x64\Debug\VMS.TPS.Common.Model.Interface.dll
+C:\Users\187646\documents\visual studio 2010\Projects\MyFirstApp\MyFirstApp\bin\x64\Debug\VMS.TPS.Common.Model.API.xml
+C:\Users\187646\documents\visual studio 2010\Projects\MyFirstApp\MyFirstApp\bin\x64\Debug\VMS.TPS.Common.Model.Types.pdb
+C:\Users\187646\documents\visual studio 2010\Projects\MyFirstApp\MyFirstApp\bin\x64\Debug\VMS.TPS.Common.Model.Types.xml
+C:\Users\187646\documents\visual studio 2010\Projects\MyFirstApp\MyFirstApp\bin\x64\Debug\VMS.TPS.Common.Model.Interface.pdb
+C:\Users\187646\documents\visual studio 2010\Projects\MyFirstApp\MyFirstApp\obj\x64\Debug\MyFirstApp.Properties.Resources.resources
+C:\Users\187646\documents\visual studio 2010\Projects\MyFirstApp\MyFirstApp\obj\x64\Debug\MyFirstApp.csproj.GenerateResource.Cache
+C:\Users\187646\documents\visual studio 2010\Projects\MyFirstApp\MyFirstApp\obj\x64\Debug\MyFirstApp.exe
+C:\Users\187646\documents\visual studio 2010\Projects\MyFirstApp\MyFirstApp\obj\x64\Debug\MyFirstApp.pdb
+C:\Users\187646\documents\visual studio 2010\Projects\MyFirstApp\MyFirstApp\obj\x64\Debug\MyFirstApp.csprojResolveAssemblyReference.cache
+C:\Users\187646\documents\visual studio 2010\Projects\MyFirstApp\MyFirstApp\bin\x64\Debug\MyFirstScript.dll
+C:\Users\187646\documents\visual studio 2010\Projects\MyFirstApp\MyFirstApp\bin\x64\Debug\MyFirstScript.pdb
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (5) before privatemembers\MyFirstApp\obj\x64\Debug\MyFirstApp.exe
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (5) before privatemembers\MyFirstApp\obj\x64\Debug\MyFirstApp.pdb
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (5) before privatemembers\MyFirstApp\bin\x64\Debug\MyFirstApp.exe
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (5) before privatemembers\MyFirstApp\bin\x64\Debug\MyFirstApp.pdb
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (5) before privatemembers\MyFirstApp\bin\x64\Debug\MyFirstScript.dll
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (5) before privatemembers\MyFirstApp\bin\x64\Debug\VMS.TPS.Common.Model.API.dll
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (5) before privatemembers\MyFirstApp\bin\x64\Debug\VMS.TPS.Common.Model.Types.dll
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (5) before privatemembers\MyFirstApp\bin\x64\Debug\VMS.TPS.Common.Calculation.Interface.dll
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (5) before privatemembers\MyFirstApp\bin\x64\Debug\VMS.TPS.Common.Model.Interface.dll
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (5) before privatemembers\MyFirstApp\bin\x64\Debug\MyFirstScript.pdb
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (5) before privatemembers\MyFirstApp\bin\x64\Debug\VMS.TPS.Common.Model.API.xml
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (5) before privatemembers\MyFirstApp\bin\x64\Debug\VMS.TPS.Common.Model.Types.pdb
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (5) before privatemembers\MyFirstApp\bin\x64\Debug\VMS.TPS.Common.Model.Types.xml
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (5) before privatemembers\MyFirstApp\bin\x64\Debug\VMS.TPS.Common.Model.Interface.pdb
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (5) before privatemembers\MyFirstApp\obj\x64\Debug\MyFirstApp.csprojResolveAssemblyReference.cache
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (5) before privatemembers\MyFirstApp\obj\x64\Debug\MyFirstApp.Properties.Resources.resources
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (5) before privatemembers\MyFirstApp\obj\x64\Debug\MyFirstApp.csproj.GenerateResource.Cache
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (5) before privatemembers - Copy\MyFirstApp\obj\x64\Debug\MyFirstApp.exe
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (5) before privatemembers - Copy\MyFirstApp\obj\x64\Debug\MyFirstApp.pdb
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (5) before privatemembers - Copy\MyFirstApp\bin\x64\Debug\MyFirstApp.exe
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (5) before privatemembers - Copy\MyFirstApp\bin\x64\Debug\MyFirstApp.pdb
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (5) before privatemembers - Copy\MyFirstApp\bin\x64\Debug\MyFirstScript.dll
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (5) before privatemembers - Copy\MyFirstApp\bin\x64\Debug\VMS.TPS.Common.Model.API.dll
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (5) before privatemembers - Copy\MyFirstApp\bin\x64\Debug\VMS.TPS.Common.Model.Types.dll
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (5) before privatemembers - Copy\MyFirstApp\bin\x64\Debug\VMS.TPS.Common.Calculation.Interface.dll
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (5) before privatemembers - Copy\MyFirstApp\bin\x64\Debug\VMS.TPS.Common.Model.Interface.dll
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (5) before privatemembers - Copy\MyFirstApp\bin\x64\Debug\MyFirstScript.pdb
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (5) before privatemembers - Copy\MyFirstApp\bin\x64\Debug\VMS.TPS.Common.Model.API.xml
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (5) before privatemembers - Copy\MyFirstApp\bin\x64\Debug\VMS.TPS.Common.Model.Types.pdb
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (5) before privatemembers - Copy\MyFirstApp\bin\x64\Debug\VMS.TPS.Common.Model.Types.xml
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (5) before privatemembers - Copy\MyFirstApp\bin\x64\Debug\VMS.TPS.Common.Model.Interface.pdb
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (5) before privatemembers - Copy\MyFirstApp\obj\x64\Debug\MyFirstApp.csprojResolveAssemblyReference.cache
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (5) before privatemembers - Copy\MyFirstApp\obj\x64\Debug\MyFirstApp.Properties.Resources.resources
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (5) before privatemembers - Copy\MyFirstApp\obj\x64\Debug\MyFirstApp.csproj.GenerateResource.Cache
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (5) before privatemembers - Copy\MyFirstApp\bin\x64\Debug\MyFirstApp.exe.config
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (7) before privatemembers - Copy -alt exakt struct eller lowercase\MyFirstApp\bin\x64\Debug\MyFirstApp.exe.config
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (7) before privatemembers - Copy -alt exakt struct eller lowercase\MyFirstApp\obj\x64\Debug\MyFirstApp.exe
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (7) before privatemembers - Copy -alt exakt struct eller lowercase\MyFirstApp\obj\x64\Debug\MyFirstApp.pdb
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (7) before privatemembers - Copy -alt exakt struct eller lowercase\MyFirstApp\bin\x64\Debug\MyFirstApp.exe
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (7) before privatemembers - Copy -alt exakt struct eller lowercase\MyFirstApp\bin\x64\Debug\MyFirstApp.pdb
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (7) before privatemembers - Copy -alt exakt struct eller lowercase\MyFirstApp\bin\x64\Debug\MyFirstScript.dll
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (7) before privatemembers - Copy -alt exakt struct eller lowercase\MyFirstApp\bin\x64\Debug\VMS.TPS.Common.Model.API.dll
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (7) before privatemembers - Copy -alt exakt struct eller lowercase\MyFirstApp\bin\x64\Debug\VMS.TPS.Common.Model.Types.dll
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (7) before privatemembers - Copy -alt exakt struct eller lowercase\MyFirstApp\bin\x64\Debug\VMS.TPS.Common.Calculation.Interface.dll
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (7) before privatemembers - Copy -alt exakt struct eller lowercase\MyFirstApp\bin\x64\Debug\VMS.TPS.Common.Model.Interface.dll
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (7) before privatemembers - Copy -alt exakt struct eller lowercase\MyFirstApp\bin\x64\Debug\MyFirstScript.pdb
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (7) before privatemembers - Copy -alt exakt struct eller lowercase\MyFirstApp\bin\x64\Debug\VMS.TPS.Common.Model.API.xml
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (7) before privatemembers - Copy -alt exakt struct eller lowercase\MyFirstApp\bin\x64\Debug\VMS.TPS.Common.Model.Types.pdb
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (7) before privatemembers - Copy -alt exakt struct eller lowercase\MyFirstApp\bin\x64\Debug\VMS.TPS.Common.Model.Types.xml
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (7) before privatemembers - Copy -alt exakt struct eller lowercase\MyFirstApp\bin\x64\Debug\VMS.TPS.Common.Model.Interface.pdb
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (7) before privatemembers - Copy -alt exakt struct eller lowercase\MyFirstApp\obj\x64\Debug\MyFirstApp.csprojResolveAssemblyReference.cache
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (7) before privatemembers - Copy -alt exakt struct eller lowercase\MyFirstApp\obj\x64\Debug\MyFirstApp.Properties.Resources.resources
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (7) before privatemembers - Copy -alt exakt struct eller lowercase\MyFirstApp\obj\x64\Debug\MyFirstApp.csproj.GenerateResource.Cache
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (7) before privatemembers - Copy -alt exakt struct eller lowercase 9 13\MyFirstApp\bin\x64\Debug\MyFirstApp.exe.config
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (7) before privatemembers - Copy -alt exakt struct eller lowercase 9 13\MyFirstApp\obj\x64\Debug\MyFirstApp.exe
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (7) before privatemembers - Copy -alt exakt struct eller lowercase 9 13\MyFirstApp\obj\x64\Debug\MyFirstApp.pdb
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (7) before privatemembers - Copy -alt exakt struct eller lowercase 9 13\MyFirstApp\bin\x64\Debug\MyFirstApp.exe
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (7) before privatemembers - Copy -alt exakt struct eller lowercase 9 13\MyFirstApp\bin\x64\Debug\MyFirstApp.pdb
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (7) before privatemembers - Copy -alt exakt struct eller lowercase 9 13\MyFirstApp\bin\x64\Debug\MyFirstScript.dll
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (7) before privatemembers - Copy -alt exakt struct eller lowercase 9 13\MyFirstApp\bin\x64\Debug\VMS.TPS.Common.Model.API.dll
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (7) before privatemembers - Copy -alt exakt struct eller lowercase 9 13\MyFirstApp\bin\x64\Debug\VMS.TPS.Common.Model.Types.dll
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (7) before privatemembers - Copy -alt exakt struct eller lowercase 9 13\MyFirstApp\bin\x64\Debug\VMS.TPS.Common.Calculation.Interface.dll
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (7) before privatemembers - Copy -alt exakt struct eller lowercase 9 13\MyFirstApp\bin\x64\Debug\VMS.TPS.Common.Model.Interface.dll
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (7) before privatemembers - Copy -alt exakt struct eller lowercase 9 13\MyFirstApp\bin\x64\Debug\MyFirstScript.pdb
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (7) before privatemembers - Copy -alt exakt struct eller lowercase 9 13\MyFirstApp\bin\x64\Debug\VMS.TPS.Common.Model.API.xml
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (7) before privatemembers - Copy -alt exakt struct eller lowercase 9 13\MyFirstApp\bin\x64\Debug\VMS.TPS.Common.Model.Types.pdb
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (7) before privatemembers - Copy -alt exakt struct eller lowercase 9 13\MyFirstApp\bin\x64\Debug\VMS.TPS.Common.Model.Types.xml
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (7) before privatemembers - Copy -alt exakt struct eller lowercase 9 13\MyFirstApp\bin\x64\Debug\VMS.TPS.Common.Model.Interface.pdb
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (7) before privatemembers - Copy -alt exakt struct eller lowercase 9 13\MyFirstApp\obj\x64\Debug\MyFirstApp.csprojResolveAssemblyReference.cache
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (7) before privatemembers - Copy -alt exakt struct eller lowercase 9 13\MyFirstApp\obj\x64\Debug\MyFirstApp.Properties.Resources.resources
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (7) before privatemembers - Copy -alt exakt struct eller lowercase 9 13\MyFirstApp\obj\x64\Debug\MyFirstApp.csproj.GenerateResource.Cache
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (7) 9-15\MyFirstApp\bin\x64\Debug\MyFirstApp.exe.config
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (7) 9-15\MyFirstApp\obj\x64\Debug\MyFirstApp.exe
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (7) 9-15\MyFirstApp\obj\x64\Debug\MyFirstApp.pdb
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (7) 9-15\MyFirstApp\bin\x64\Debug\MyFirstApp.exe
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (7) 9-15\MyFirstApp\bin\x64\Debug\MyFirstApp.pdb
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (7) 9-15\MyFirstApp\bin\x64\Debug\MyFirstScript.dll
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (7) 9-15\MyFirstApp\bin\x64\Debug\VMS.TPS.Common.Model.API.dll
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (7) 9-15\MyFirstApp\bin\x64\Debug\VMS.TPS.Common.Model.Types.dll
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (7) 9-15\MyFirstApp\bin\x64\Debug\VMS.TPS.Common.Calculation.Interface.dll
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (7) 9-15\MyFirstApp\bin\x64\Debug\VMS.TPS.Common.Model.Interface.dll
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (7) 9-15\MyFirstApp\bin\x64\Debug\MyFirstScript.pdb
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (7) 9-15\MyFirstApp\bin\x64\Debug\VMS.TPS.Common.Model.API.xml
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (7) 9-15\MyFirstApp\bin\x64\Debug\VMS.TPS.Common.Model.Types.pdb
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (7) 9-15\MyFirstApp\bin\x64\Debug\VMS.TPS.Common.Model.Types.xml
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (7) 9-15\MyFirstApp\bin\x64\Debug\VMS.TPS.Common.Model.Interface.pdb
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (7) 9-15\MyFirstApp\obj\x64\Debug\MyFirstApp.csprojResolveAssemblyReference.cache
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (7) 9-15\MyFirstApp\obj\x64\Debug\MyFirstApp.Properties.Resources.resources
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (7) 9-15\MyFirstApp\obj\x64\Debug\MyFirstApp.csproj.GenerateResource.Cache
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (8) 9-21\MyFirstApp\bin\x64\Debug\MyFirstApp.exe.config
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (8) 9-21\MyFirstApp\obj\x64\Debug\MyFirstApp.exe
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (8) 9-21\MyFirstApp\obj\x64\Debug\MyFirstApp.pdb
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (8) 9-21\MyFirstApp\bin\x64\Debug\MyFirstApp.exe
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (8) 9-21\MyFirstApp\bin\x64\Debug\MyFirstApp.pdb
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (8) 9-21\MyFirstApp\bin\x64\Debug\MyFirstScript.dll
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (8) 9-21\MyFirstApp\bin\x64\Debug\VMS.TPS.Common.Model.API.dll
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (8) 9-21\MyFirstApp\bin\x64\Debug\VMS.TPS.Common.Model.Types.dll
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (8) 9-21\MyFirstApp\bin\x64\Debug\VMS.TPS.Common.Calculation.Interface.dll
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (8) 9-21\MyFirstApp\bin\x64\Debug\VMS.TPS.Common.Model.Interface.dll
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (8) 9-21\MyFirstApp\bin\x64\Debug\MyFirstScript.pdb
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (8) 9-21\MyFirstApp\bin\x64\Debug\VMS.TPS.Common.Model.API.xml
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (8) 9-21\MyFirstApp\bin\x64\Debug\VMS.TPS.Common.Model.Types.pdb
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (8) 9-21\MyFirstApp\bin\x64\Debug\VMS.TPS.Common.Model.Types.xml
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (8) 9-21\MyFirstApp\bin\x64\Debug\VMS.TPS.Common.Model.Interface.pdb
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (8) 9-21\MyFirstApp\obj\x64\Debug\MyFirstApp.csprojResolveAssemblyReference.cache
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (8) 9-21\MyFirstApp\obj\x64\Debug\MyFirstApp.Properties.Resources.resources
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (8) 9-21\MyFirstApp\obj\x64\Debug\MyFirstApp.csproj.GenerateResource.Cache
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (8) 9-25 - after index instead of name\MyFirstApp\bin\x64\Debug\MyFirstApp.exe.config
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (8) 9-25 - after index instead of name\MyFirstApp\obj\x64\Debug\MyFirstApp.exe
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (8) 9-25 - after index instead of name\MyFirstApp\obj\x64\Debug\MyFirstApp.pdb
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (8) 9-25 - after index instead of name\MyFirstApp\bin\x64\Debug\MyFirstApp.exe
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (8) 9-25 - after index instead of name\MyFirstApp\bin\x64\Debug\MyFirstApp.pdb
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (8) 9-25 - after index instead of name\MyFirstApp\bin\x64\Debug\MyFirstScript.dll
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (8) 9-25 - after index instead of name\MyFirstApp\bin\x64\Debug\VMS.TPS.Common.Model.API.dll
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (8) 9-25 - after index instead of name\MyFirstApp\bin\x64\Debug\VMS.TPS.Common.Model.Types.dll
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (8) 9-25 - after index instead of name\MyFirstApp\bin\x64\Debug\VMS.TPS.Common.Calculation.Interface.dll
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (8) 9-25 - after index instead of name\MyFirstApp\bin\x64\Debug\VMS.TPS.Common.Model.Interface.dll
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (8) 9-25 - after index instead of name\MyFirstApp\bin\x64\Debug\MyFirstScript.pdb
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (8) 9-25 - after index instead of name\MyFirstApp\bin\x64\Debug\VMS.TPS.Common.Model.API.xml
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (8) 9-25 - after index instead of name\MyFirstApp\bin\x64\Debug\VMS.TPS.Common.Model.Types.pdb
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (8) 9-25 - after index instead of name\MyFirstApp\bin\x64\Debug\VMS.TPS.Common.Model.Types.xml
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (8) 9-25 - after index instead of name\MyFirstApp\bin\x64\Debug\VMS.TPS.Common.Model.Interface.pdb
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (8) 9-25 - after index instead of name\MyFirstApp\obj\x64\Debug\MyFirstApp.csprojResolveAssemblyReference.cache
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (8) 9-25 - after index instead of name\MyFirstApp\obj\x64\Debug\MyFirstApp.Properties.Resources.resources
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (8) 9-25 - after index instead of name\MyFirstApp\obj\x64\Debug\MyFirstApp.csproj.GenerateResource.Cache
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (8) 5-10\MyFirstApp\bin\x64\Debug\MyFirstApp.exe.config
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (8) 5-10\MyFirstApp\obj\x64\Debug\MyFirstApp.exe
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (8) 5-10\MyFirstApp\obj\x64\Debug\MyFirstApp.pdb
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (8) 5-10\MyFirstApp\bin\x64\Debug\MyFirstApp.exe
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (8) 5-10\MyFirstApp\bin\x64\Debug\MyFirstApp.pdb
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (8) 5-10\MyFirstApp\bin\x64\Debug\MyFirstScript.dll
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (8) 5-10\MyFirstApp\bin\x64\Debug\VMS.TPS.Common.Model.API.dll
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (8) 5-10\MyFirstApp\bin\x64\Debug\VMS.TPS.Common.Model.Types.dll
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (8) 5-10\MyFirstApp\bin\x64\Debug\VMS.TPS.Common.Calculation.Interface.dll
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (8) 5-10\MyFirstApp\bin\x64\Debug\VMS.TPS.Common.Model.Interface.dll
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (8) 5-10\MyFirstApp\bin\x64\Debug\MyFirstScript.pdb
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (8) 5-10\MyFirstApp\bin\x64\Debug\VMS.TPS.Common.Model.API.xml
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (8) 5-10\MyFirstApp\bin\x64\Debug\VMS.TPS.Common.Model.Types.pdb
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (8) 5-10\MyFirstApp\bin\x64\Debug\VMS.TPS.Common.Model.Types.xml
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (8) 5-10\MyFirstApp\bin\x64\Debug\VMS.TPS.Common.Model.Interface.pdb
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (8) 5-10\MyFirstApp\obj\x64\Debug\MyFirstApp.csprojResolveAssemblyReference.cache
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (8) 5-10\MyFirstApp\obj\x64\Debug\MyFirstApp.Properties.Resources.resources
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (8) 5-10\MyFirstApp\obj\x64\Debug\MyFirstApp.csproj.GenerateResource.Cache
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (9) 5-10 -.2\MyFirstApp\bin\x64\Debug\MyFirstApp.exe.config
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (9) 5-10 -.2\MyFirstApp\obj\x64\Debug\MyFirstApp.exe
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (9) 5-10 -.2\MyFirstApp\obj\x64\Debug\MyFirstApp.pdb
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (9) 5-10 -.2\MyFirstApp\bin\x64\Debug\MyFirstApp.exe
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (9) 5-10 -.2\MyFirstApp\bin\x64\Debug\MyFirstApp.pdb
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (9) 5-10 -.2\MyFirstApp\bin\x64\Debug\MyFirstScript.dll
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (9) 5-10 -.2\MyFirstApp\bin\x64\Debug\VMS.TPS.Common.Model.API.dll
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (9) 5-10 -.2\MyFirstApp\bin\x64\Debug\VMS.TPS.Common.Model.Types.dll
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (9) 5-10 -.2\MyFirstApp\bin\x64\Debug\VMS.TPS.Common.Calculation.Interface.dll
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (9) 5-10 -.2\MyFirstApp\bin\x64\Debug\VMS.TPS.Common.Model.Interface.dll
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (9) 5-10 -.2\MyFirstApp\bin\x64\Debug\MyFirstScript.pdb
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (9) 5-10 -.2\MyFirstApp\bin\x64\Debug\VMS.TPS.Common.Model.API.xml
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (9) 5-10 -.2\MyFirstApp\bin\x64\Debug\VMS.TPS.Common.Model.Types.pdb
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (9) 5-10 -.2\MyFirstApp\bin\x64\Debug\VMS.TPS.Common.Model.Types.xml
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (9) 5-10 -.2\MyFirstApp\bin\x64\Debug\VMS.TPS.Common.Model.Interface.pdb
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (9) 5-10 -.2\MyFirstApp\obj\x64\Debug\MyFirstApp.csprojResolveAssemblyReference.cache
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (9) 5-10 -.2\MyFirstApp\obj\x64\Debug\MyFirstApp.Properties.Resources.resources
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (9) 5-10 -.2\MyFirstApp\obj\x64\Debug\MyFirstApp.csproj.GenerateResource.Cache
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (10) 6-10 -.3 - Copy\MyFirstApp\bin\x64\Debug\MyFirstApp.exe.config
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (10) 6-10 -.3 - Copy\MyFirstApp\obj\x64\Debug\MyFirstApp.exe
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (10) 6-10 -.3 - Copy\MyFirstApp\obj\x64\Debug\MyFirstApp.pdb
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (10) 6-10 -.3 - Copy\MyFirstApp\bin\x64\Debug\MyFirstApp.exe
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (10) 6-10 -.3 - Copy\MyFirstApp\bin\x64\Debug\MyFirstApp.pdb
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (10) 6-10 -.3 - Copy\MyFirstApp\bin\x64\Debug\MyFirstScript.dll
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (10) 6-10 -.3 - Copy\MyFirstApp\bin\x64\Debug\VMS.TPS.Common.Model.API.dll
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (10) 6-10 -.3 - Copy\MyFirstApp\bin\x64\Debug\VMS.TPS.Common.Model.Types.dll
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (10) 6-10 -.3 - Copy\MyFirstApp\bin\x64\Debug\VMS.TPS.Common.Calculation.Interface.dll
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (10) 6-10 -.3 - Copy\MyFirstApp\bin\x64\Debug\VMS.TPS.Common.Model.Interface.dll
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (10) 6-10 -.3 - Copy\MyFirstApp\bin\x64\Debug\MyFirstScript.pdb
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (10) 6-10 -.3 - Copy\MyFirstApp\bin\x64\Debug\VMS.TPS.Common.Model.API.xml
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (10) 6-10 -.3 - Copy\MyFirstApp\bin\x64\Debug\VMS.TPS.Common.Model.Types.pdb
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (10) 6-10 -.3 - Copy\MyFirstApp\bin\x64\Debug\VMS.TPS.Common.Model.Types.xml
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (10) 6-10 -.3 - Copy\MyFirstApp\bin\x64\Debug\VMS.TPS.Common.Model.Interface.pdb
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (10) 6-10 -.3 - Copy\MyFirstApp\obj\x64\Debug\MyFirstApp.csprojResolveAssemblyReference.cache
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (10) 6-10 -.3 - Copy\MyFirstApp\obj\x64\Debug\MyFirstApp.Properties.Resources.resources
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (10) 6-10 -.3 - Copy\MyFirstApp\obj\x64\Debug\MyFirstApp.csproj.GenerateResource.Cache
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (10) 9-10\MyFirstApp\bin\x64\Debug\MyFirstApp.exe.config
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (10) 9-10\MyFirstApp\obj\x64\Debug\MyFirstApp.exe
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (10) 9-10\MyFirstApp\obj\x64\Debug\MyFirstApp.pdb
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (10) 9-10\MyFirstApp\bin\x64\Debug\MyFirstApp.exe
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (10) 9-10\MyFirstApp\bin\x64\Debug\MyFirstApp.pdb
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (10) 9-10\MyFirstApp\bin\x64\Debug\MyFirstScript.dll
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (10) 9-10\MyFirstApp\bin\x64\Debug\VMS.TPS.Common.Model.API.dll
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (10) 9-10\MyFirstApp\bin\x64\Debug\VMS.TPS.Common.Model.Types.dll
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (10) 9-10\MyFirstApp\bin\x64\Debug\VMS.TPS.Common.Calculation.Interface.dll
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (10) 9-10\MyFirstApp\bin\x64\Debug\VMS.TPS.Common.Model.Interface.dll
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (10) 9-10\MyFirstApp\bin\x64\Debug\MyFirstScript.pdb
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (10) 9-10\MyFirstApp\bin\x64\Debug\VMS.TPS.Common.Model.API.xml
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (10) 9-10\MyFirstApp\bin\x64\Debug\VMS.TPS.Common.Model.Types.pdb
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (10) 9-10\MyFirstApp\bin\x64\Debug\VMS.TPS.Common.Model.Types.xml
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (10) 9-10\MyFirstApp\bin\x64\Debug\VMS.TPS.Common.Model.Interface.pdb
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (10) 9-10\MyFirstApp\obj\x64\Debug\MyFirstApp.csprojResolveAssemblyReference.cache
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (10) 9-10\MyFirstApp\obj\x64\Debug\MyFirstApp.Properties.Resources.resources
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (10) 9-10\MyFirstApp\obj\x64\Debug\MyFirstApp.csproj.GenerateResource.Cache
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (10) 9-12\MyFirstApp\bin\x64\Debug\MyFirstApp.exe.config
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (10) 9-12\MyFirstApp\obj\x64\Debug\MyFirstApp.exe
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (10) 9-12\MyFirstApp\obj\x64\Debug\MyFirstApp.pdb
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (10) 9-12\MyFirstApp\bin\x64\Debug\MyFirstApp.exe
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (10) 9-12\MyFirstApp\bin\x64\Debug\MyFirstApp.pdb
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (10) 9-12\MyFirstApp\bin\x64\Debug\MyFirstScript.dll
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (10) 9-12\MyFirstApp\bin\x64\Debug\VMS.TPS.Common.Model.API.dll
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (10) 9-12\MyFirstApp\bin\x64\Debug\VMS.TPS.Common.Model.Types.dll
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (10) 9-12\MyFirstApp\bin\x64\Debug\VMS.TPS.Common.Calculation.Interface.dll
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (10) 9-12\MyFirstApp\bin\x64\Debug\VMS.TPS.Common.Model.Interface.dll
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (10) 9-12\MyFirstApp\bin\x64\Debug\MyFirstScript.pdb
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (10) 9-12\MyFirstApp\bin\x64\Debug\VMS.TPS.Common.Model.API.xml
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (10) 9-12\MyFirstApp\bin\x64\Debug\VMS.TPS.Common.Model.Types.pdb
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (10) 9-12\MyFirstApp\bin\x64\Debug\VMS.TPS.Common.Model.Types.xml
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (10) 9-12\MyFirstApp\bin\x64\Debug\VMS.TPS.Common.Model.Interface.pdb
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (10) 9-12\MyFirstApp\obj\x64\Debug\MyFirstApp.csprojResolveAssemblyReference.cache
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (10) 9-12\MyFirstApp\obj\x64\Debug\MyFirstApp.Properties.Resources.resources
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (10) 9-12\MyFirstApp\obj\x64\Debug\MyFirstApp.csproj.GenerateResource.Cache
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (10) 9-12-use here\MyFirstApp\bin\x64\Debug\MyFirstApp.exe.config
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (10) 9-12-use here\MyFirstApp\obj\x64\Debug\MyFirstApp.exe
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (10) 9-12-use here\MyFirstApp\obj\x64\Debug\MyFirstApp.pdb
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (10) 9-12-use here\MyFirstApp\bin\x64\Debug\MyFirstApp.exe
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (10) 9-12-use here\MyFirstApp\bin\x64\Debug\MyFirstApp.pdb
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (10) 9-12-use here\MyFirstApp\bin\x64\Debug\MyFirstScript.dll
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (10) 9-12-use here\MyFirstApp\bin\x64\Debug\VMS.TPS.Common.Model.API.dll
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (10) 9-12-use here\MyFirstApp\bin\x64\Debug\VMS.TPS.Common.Model.Types.dll
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (10) 9-12-use here\MyFirstApp\bin\x64\Debug\VMS.TPS.Common.Calculation.Interface.dll
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (10) 9-12-use here\MyFirstApp\bin\x64\Debug\VMS.TPS.Common.Model.Interface.dll
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (10) 9-12-use here\MyFirstApp\bin\x64\Debug\MyFirstScript.pdb
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (10) 9-12-use here\MyFirstApp\bin\x64\Debug\VMS.TPS.Common.Model.API.xml
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (10) 9-12-use here\MyFirstApp\bin\x64\Debug\VMS.TPS.Common.Model.Types.pdb
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (10) 9-12-use here\MyFirstApp\bin\x64\Debug\VMS.TPS.Common.Model.Types.xml
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (10) 9-12-use here\MyFirstApp\bin\x64\Debug\VMS.TPS.Common.Model.Interface.pdb
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (10) 9-12-use here\MyFirstApp\obj\x64\Debug\MyFirstApp.csprojResolveAssemblyReference.cache
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (10) 9-12-use here\MyFirstApp\obj\x64\Debug\MyFirstApp.Properties.Resources.resources
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (10) 9-12-use here\MyFirstApp\obj\x64\Debug\MyFirstApp.csproj.GenerateResource.Cache
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (11) 9-14-use here - Copy\MyFirstApp\bin\x64\Debug\MyFirstApp.exe.config
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (11) 9-14-use here - Copy\MyFirstApp\obj\x64\Debug\MyFirstApp.exe
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (11) 9-14-use here - Copy\MyFirstApp\obj\x64\Debug\MyFirstApp.pdb
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (11) 9-14-use here - Copy\MyFirstApp\obj\x64\Debug\MyFirstApp.csprojResolveAssemblyReference.cache
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (11) 9-14-use here - Copy\MyFirstApp\obj\x64\Debug\MyFirstApp.Properties.Resources.resources
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (11) 9-14-use here - Copy\MyFirstApp\obj\x64\Debug\MyFirstApp.csproj.GenerateResource.Cache
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (11) 9-14-use here - Copy\MyFirstApp\bin\x64\Debug\MyFirstApp.exe
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (11) 9-14-use here - Copy\MyFirstApp\bin\x64\Debug\MyFirstApp.pdb
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (11) 9-14-use here - Copy\MyFirstApp\bin\x64\Debug\MyFirstScript.dll
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (11) 9-14-use here - Copy\MyFirstApp\bin\x64\Debug\VMS.TPS.Common.Model.API.dll
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (11) 9-14-use here - Copy\MyFirstApp\bin\x64\Debug\VMS.TPS.Common.Model.Types.dll
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (11) 9-14-use here - Copy\MyFirstApp\bin\x64\Debug\VMS.TPS.Common.Calculation.Interface.dll
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (11) 9-14-use here - Copy\MyFirstApp\bin\x64\Debug\VMS.TPS.Common.Model.Interface.dll
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (11) 9-14-use here - Copy\MyFirstApp\bin\x64\Debug\MyFirstScript.pdb
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (11) 9-14-use here - Copy\MyFirstApp\bin\x64\Debug\VMS.TPS.Common.Model.API.xml
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (11) 9-14-use here - Copy\MyFirstApp\bin\x64\Debug\VMS.TPS.Common.Model.Types.pdb
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (11) 9-14-use here - Copy\MyFirstApp\bin\x64\Debug\VMS.TPS.Common.Model.Types.xml
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (11) 9-14-use here - Copy\MyFirstApp\bin\x64\Debug\VMS.TPS.Common.Model.Interface.pdb
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (11) 9-14-use here - Copy - 1111\MyFirstApp\bin\x64\Debug\MyFirstApp.exe.config
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (11) 9-14-use here - Copy - 1111\MyFirstApp\obj\x64\Debug\MyFirstApp.exe
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (11) 9-14-use here - Copy - 1111\MyFirstApp\obj\x64\Debug\MyFirstApp.pdb
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (11) 9-14-use here - Copy - 1111\MyFirstApp\bin\x64\Debug\MyFirstApp.exe
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (11) 9-14-use here - Copy - 1111\MyFirstApp\bin\x64\Debug\MyFirstApp.pdb
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (11) 9-14-use here - Copy - 1111\MyFirstApp\bin\x64\Debug\MyFirstScript.dll
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (11) 9-14-use here - Copy - 1111\MyFirstApp\bin\x64\Debug\VMS.TPS.Common.Model.API.dll
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (11) 9-14-use here - Copy - 1111\MyFirstApp\bin\x64\Debug\VMS.TPS.Common.Model.Types.dll
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (11) 9-14-use here - Copy - 1111\MyFirstApp\bin\x64\Debug\VMS.TPS.Common.Calculation.Interface.dll
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (11) 9-14-use here - Copy - 1111\MyFirstApp\bin\x64\Debug\VMS.TPS.Common.Model.Interface.dll
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (11) 9-14-use here - Copy - 1111\MyFirstApp\bin\x64\Debug\MyFirstScript.pdb
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (11) 9-14-use here - Copy - 1111\MyFirstApp\bin\x64\Debug\VMS.TPS.Common.Model.API.xml
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (11) 9-14-use here - Copy - 1111\MyFirstApp\bin\x64\Debug\VMS.TPS.Common.Model.Types.pdb
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (11) 9-14-use here - Copy - 1111\MyFirstApp\bin\x64\Debug\VMS.TPS.Common.Model.Types.xml
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (11) 9-14-use here - Copy - 1111\MyFirstApp\bin\x64\Debug\VMS.TPS.Common.Model.Interface.pdb
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (11) 9-14-use here - Copy - 1111\MyFirstApp\obj\x64\Debug\MyFirstApp.csprojResolveAssemblyReference.cache
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (11) 9-14-use here - Copy - 1111\MyFirstApp\obj\x64\Debug\MyFirstApp.Properties.Resources.resources
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (11) 9-14-use here - Copy - 1111\MyFirstApp\obj\x64\Debug\MyFirstApp.csproj.GenerateResource.Cache
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (11) 11-11-use here\MyFirstApp\bin\x64\Debug\MyFirstApp.exe.config
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (11) 11-11-use here\MyFirstApp\obj\x64\Debug\MyFirstApp.exe
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (11) 11-11-use here\MyFirstApp\obj\x64\Debug\MyFirstApp.pdb
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (11) 11-11-use here\MyFirstApp\bin\x64\Debug\MyFirstApp.exe
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (11) 11-11-use here\MyFirstApp\bin\x64\Debug\MyFirstApp.pdb
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (11) 11-11-use here\MyFirstApp\bin\x64\Debug\MyFirstScript.dll
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (11) 11-11-use here\MyFirstApp\bin\x64\Debug\VMS.TPS.Common.Model.API.dll
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (11) 11-11-use here\MyFirstApp\bin\x64\Debug\VMS.TPS.Common.Model.Types.dll
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (11) 11-11-use here\MyFirstApp\bin\x64\Debug\VMS.TPS.Common.Calculation.Interface.dll
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (11) 11-11-use here\MyFirstApp\bin\x64\Debug\VMS.TPS.Common.Model.Interface.dll
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (11) 11-11-use here\MyFirstApp\bin\x64\Debug\MyFirstScript.pdb
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (11) 11-11-use here\MyFirstApp\bin\x64\Debug\VMS.TPS.Common.Model.API.xml
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (11) 11-11-use here\MyFirstApp\bin\x64\Debug\VMS.TPS.Common.Model.Types.pdb
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (11) 11-11-use here\MyFirstApp\bin\x64\Debug\VMS.TPS.Common.Model.Types.xml
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (11) 11-11-use here\MyFirstApp\bin\x64\Debug\VMS.TPS.Common.Model.Interface.pdb
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (11) 11-11-use here\MyFirstApp\obj\x64\Debug\MyFirstApp.csprojResolveAssemblyReference.cache
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (11) 11-11-use here\MyFirstApp\obj\x64\Debug\MyFirstApp.Properties.Resources.resources
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (11) 11-11-use here\MyFirstApp\obj\x64\Debug\MyFirstApp.csproj.GenerateResource.Cache
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (11) 11-11-use here (yes this one 151209)\MyFirstApp\bin\x64\Debug\MyFirstApp.exe.config
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (11) 11-11-use here (yes this one 151209)\MyFirstApp\obj\x64\Debug\MyFirstApp.exe
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (11) 11-11-use here (yes this one 151209)\MyFirstApp\obj\x64\Debug\MyFirstApp.pdb
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (12) 11-11-use here (yes this one 151211) - Copy\MyFirstApp\bin\x64\Debug\MyFirstApp.exe.config
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (12) 11-11-use here (yes this one 151211) - Copy\MyFirstApp\obj\x64\Debug\MyFirstApp.exe
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (12) 11-11-use here (yes this one 151211) - Copy\MyFirstApp\obj\x64\Debug\MyFirstApp.pdb
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (12) 11-11-use here (yes this one 151211) - Copy\MyFirstApp\bin\x64\Debug\MyFirstApp.exe
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (12) 11-11-use here (yes this one 151211) - Copy\MyFirstApp\bin\x64\Debug\MyFirstApp.pdb
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (12) 11-11-use here (yes this one 151211) - Copy\MyFirstApp\bin\x64\Debug\MyFirstScript.dll
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (12) 11-11-use here (yes this one 151211) - Copy\MyFirstApp\bin\x64\Debug\VMS.TPS.Common.Model.API.dll
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (12) 11-11-use here (yes this one 151211) - Copy\MyFirstApp\bin\x64\Debug\VMS.TPS.Common.Model.Types.dll
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (12) 11-11-use here (yes this one 151211) - Copy\MyFirstApp\bin\x64\Debug\VMS.TPS.Common.Calculation.Interface.dll
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (12) 11-11-use here (yes this one 151211) - Copy\MyFirstApp\bin\x64\Debug\VMS.TPS.Common.Model.Interface.dll
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (12) 11-11-use here (yes this one 151211) - Copy\MyFirstApp\bin\x64\Debug\MyFirstScript.pdb
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (12) 11-11-use here (yes this one 151211) - Copy\MyFirstApp\bin\x64\Debug\VMS.TPS.Common.Model.API.xml
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (12) 11-11-use here (yes this one 151211) - Copy\MyFirstApp\bin\x64\Debug\VMS.TPS.Common.Model.Types.pdb
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (12) 11-11-use here (yes this one 151211) - Copy\MyFirstApp\bin\x64\Debug\VMS.TPS.Common.Model.Types.xml
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (12) 11-11-use here (yes this one 151211) - Copy\MyFirstApp\bin\x64\Debug\VMS.TPS.Common.Model.Interface.pdb
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (12) 11-11-use here (yes this one 151211) - Copy\MyFirstApp\obj\x64\Debug\MyFirstApp.csprojResolveAssemblyReference.cache
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (12) 11-11-use here (yes this one 151211) - Copy\MyFirstApp\obj\x64\Debug\MyFirstApp.Properties.Resources.resources
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (12) 11-11-use here (yes this one 151211) - Copy\MyFirstApp\obj\x64\Debug\MyFirstApp.csproj.GenerateResource.Cache
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (13) 01-18\MyFirstApp\bin\x64\Debug\MyFirstApp.exe.config
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (13) 01-18\MyFirstApp\obj\x64\Debug\MyFirstApp.exe
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (13) 01-18\MyFirstApp\obj\x64\Debug\MyFirstApp.pdb
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (13) 01-18\MyFirstApp\bin\x64\Debug\MyFirstApp.exe
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (13) 01-18\MyFirstApp\bin\x64\Debug\MyFirstApp.pdb
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (13) 01-18\MyFirstApp\bin\x64\Debug\MyFirstScript.dll
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (13) 01-18\MyFirstApp\bin\x64\Debug\VMS.TPS.Common.Model.API.dll
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (13) 01-18\MyFirstApp\bin\x64\Debug\VMS.TPS.Common.Model.Types.dll
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (13) 01-18\MyFirstApp\bin\x64\Debug\VMS.TPS.Common.Calculation.Interface.dll
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (13) 01-18\MyFirstApp\bin\x64\Debug\VMS.TPS.Common.Model.Interface.dll
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (13) 01-18\MyFirstApp\bin\x64\Debug\MyFirstScript.pdb
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (13) 01-18\MyFirstApp\bin\x64\Debug\VMS.TPS.Common.Model.API.xml
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (13) 01-18\MyFirstApp\bin\x64\Debug\VMS.TPS.Common.Model.Types.pdb
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (13) 01-18\MyFirstApp\bin\x64\Debug\VMS.TPS.Common.Model.Types.xml
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (13) 01-18\MyFirstApp\bin\x64\Debug\VMS.TPS.Common.Model.Interface.pdb
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (13) 01-18\MyFirstApp\obj\x64\Debug\MyFirstApp.csprojResolveAssemblyReference.cache
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (13) 01-18\MyFirstApp\obj\x64\Debug\MyFirstApp.Properties.Resources.resources
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (13) 01-18\MyFirstApp\obj\x64\Debug\MyFirstApp.csproj.GenerateResource.Cache
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (13) 01-18 - Color2\MyFirstApp\bin\x64\Debug\MyFirstApp.exe.config
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (13) 01-18 - Color2\MyFirstApp\obj\x64\Debug\MyFirstApp.exe
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (13) 01-18 - Color2\MyFirstApp\obj\x64\Debug\MyFirstApp.pdb
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (13) 01-18 - Color2\MyFirstApp\bin\x64\Debug\MyFirstApp.exe
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (13) 01-18 - Color2\MyFirstApp\bin\x64\Debug\MyFirstApp.pdb
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (13) 01-18 - Color2\MyFirstApp\bin\x64\Debug\MyFirstScript.dll
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (13) 01-18 - Color2\MyFirstApp\bin\x64\Debug\VMS.TPS.Common.Model.API.dll
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (13) 01-18 - Color2\MyFirstApp\bin\x64\Debug\VMS.TPS.Common.Model.Types.dll
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (13) 01-18 - Color2\MyFirstApp\bin\x64\Debug\VMS.TPS.Common.Calculation.Interface.dll
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (13) 01-18 - Color2\MyFirstApp\bin\x64\Debug\VMS.TPS.Common.Model.Interface.dll
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (13) 01-18 - Color2\MyFirstApp\bin\x64\Debug\MyFirstScript.pdb
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (13) 01-18 - Color2\MyFirstApp\bin\x64\Debug\VMS.TPS.Common.Model.API.xml
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (13) 01-18 - Color2\MyFirstApp\bin\x64\Debug\VMS.TPS.Common.Model.Types.pdb
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (13) 01-18 - Color2\MyFirstApp\bin\x64\Debug\VMS.TPS.Common.Model.Types.xml
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (13) 01-18 - Color2\MyFirstApp\bin\x64\Debug\VMS.TPS.Common.Model.Interface.pdb
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (13) 01-18 - Color2\MyFirstApp\obj\x64\Debug\MyFirstApp.csprojResolveAssemblyReference.cache
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (13) 01-18 - Color2\MyFirstApp\obj\x64\Debug\MyFirstApp.Properties.Resources.resources
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (13) 01-18 - Color2\MyFirstApp\obj\x64\Debug\MyFirstApp.csproj.GenerateResource.Cache
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (14) 01-18 - Color2\MyFirstApp\bin\x64\Debug\MyFirstApp.exe.config
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (14) 01-18 - Color2\MyFirstApp\obj\x64\Debug\MyFirstApp.exe
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (14) 01-18 - Color2\MyFirstApp\obj\x64\Debug\MyFirstApp.pdb
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (14) 01-18 - Color2\MyFirstApp\bin\x64\Debug\MyFirstApp.exe
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (14) 01-18 - Color2\MyFirstApp\bin\x64\Debug\MyFirstApp.pdb
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (14) 01-18 - Color2\MyFirstApp\bin\x64\Debug\MyFirstScript.dll
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (14) 01-18 - Color2\MyFirstApp\bin\x64\Debug\VMS.TPS.Common.Model.API.dll
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (14) 01-18 - Color2\MyFirstApp\bin\x64\Debug\VMS.TPS.Common.Model.Types.dll
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (14) 01-18 - Color2\MyFirstApp\bin\x64\Debug\VMS.TPS.Common.Calculation.Interface.dll
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (14) 01-18 - Color2\MyFirstApp\bin\x64\Debug\VMS.TPS.Common.Model.Interface.dll
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (14) 01-18 - Color2\MyFirstApp\bin\x64\Debug\MyFirstScript.pdb
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (14) 01-18 - Color2\MyFirstApp\bin\x64\Debug\VMS.TPS.Common.Model.API.xml
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (14) 01-18 - Color2\MyFirstApp\bin\x64\Debug\VMS.TPS.Common.Model.Types.pdb
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (14) 01-18 - Color2\MyFirstApp\bin\x64\Debug\VMS.TPS.Common.Model.Types.xml
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (14) 01-18 - Color2\MyFirstApp\bin\x64\Debug\VMS.TPS.Common.Model.Interface.pdb
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (14) 01-18 - Color2\MyFirstApp\obj\x64\Debug\MyFirstApp.csprojResolveAssemblyReference.cache
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (14) 01-18 - Color2\MyFirstApp\obj\x64\Debug\MyFirstApp.Properties.Resources.resources
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (14) 01-18 - Color2\MyFirstApp\obj\x64\Debug\MyFirstApp.csproj.GenerateResource.Cache
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (14) 01-20 - rows\MyFirstApp\bin\x64\Debug\MyFirstApp.exe.config
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (14) 01-20 - rows\MyFirstApp\obj\x64\Debug\MyFirstApp.exe
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (14) 01-20 - rows\MyFirstApp\obj\x64\Debug\MyFirstApp.pdb
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (14) 01-20 - rows\MyFirstApp\bin\x64\Debug\MyFirstApp.exe
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (14) 01-20 - rows\MyFirstApp\bin\x64\Debug\MyFirstApp.pdb
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (14) 01-20 - rows\MyFirstApp\bin\x64\Debug\MyFirstScript.dll
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (14) 01-20 - rows\MyFirstApp\bin\x64\Debug\VMS.TPS.Common.Model.API.dll
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (14) 01-20 - rows\MyFirstApp\bin\x64\Debug\VMS.TPS.Common.Model.Types.dll
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (14) 01-20 - rows\MyFirstApp\bin\x64\Debug\VMS.TPS.Common.Calculation.Interface.dll
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (14) 01-20 - rows\MyFirstApp\bin\x64\Debug\VMS.TPS.Common.Model.Interface.dll
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (14) 01-20 - rows\MyFirstApp\bin\x64\Debug\MyFirstScript.pdb
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (14) 01-20 - rows\MyFirstApp\bin\x64\Debug\VMS.TPS.Common.Model.API.xml
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (14) 01-20 - rows\MyFirstApp\bin\x64\Debug\VMS.TPS.Common.Model.Types.pdb
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (14) 01-20 - rows\MyFirstApp\bin\x64\Debug\VMS.TPS.Common.Model.Types.xml
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (14) 01-20 - rows\MyFirstApp\bin\x64\Debug\VMS.TPS.Common.Model.Interface.pdb
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (14) 01-20 - rows\MyFirstApp\obj\x64\Debug\MyFirstApp.csprojResolveAssemblyReference.cache
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (14) 01-20 - rows\MyFirstApp\obj\x64\Debug\MyFirstApp.Properties.Resources.resources
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (14) 01-20 - rows\MyFirstApp\obj\x64\Debug\MyFirstApp.csproj.GenerateResource.Cache
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (14) 01-25-ny label plansum\MyFirstApp\bin\x64\Debug\MyFirstApp.exe.config
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (14) 01-25-ny label plansum\MyFirstApp\obj\x64\Debug\MyFirstApp.exe
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (14) 01-25-ny label plansum\MyFirstApp\obj\x64\Debug\MyFirstApp.pdb
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (14) 01-25-ny label plansum\MyFirstApp\bin\x64\Debug\MyFirstApp.exe
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (14) 01-25-ny label plansum\MyFirstApp\bin\x64\Debug\MyFirstApp.pdb
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (14) 01-25-ny label plansum\MyFirstApp\bin\x64\Debug\MyFirstScript.dll
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (14) 01-25-ny label plansum\MyFirstApp\bin\x64\Debug\VMS.TPS.Common.Model.API.dll
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (14) 01-25-ny label plansum\MyFirstApp\bin\x64\Debug\VMS.TPS.Common.Model.Types.dll
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (14) 01-25-ny label plansum\MyFirstApp\bin\x64\Debug\VMS.TPS.Common.Calculation.Interface.dll
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (14) 01-25-ny label plansum\MyFirstApp\bin\x64\Debug\VMS.TPS.Common.Model.Interface.dll
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (14) 01-25-ny label plansum\MyFirstApp\bin\x64\Debug\MyFirstScript.pdb
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (14) 01-25-ny label plansum\MyFirstApp\bin\x64\Debug\VMS.TPS.Common.Model.API.xml
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (14) 01-25-ny label plansum\MyFirstApp\bin\x64\Debug\VMS.TPS.Common.Model.Types.pdb
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (14) 01-25-ny label plansum\MyFirstApp\bin\x64\Debug\VMS.TPS.Common.Model.Types.xml
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (14) 01-25-ny label plansum\MyFirstApp\bin\x64\Debug\VMS.TPS.Common.Model.Interface.pdb
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (14) 01-25-ny label plansum\MyFirstApp\obj\x64\Debug\MyFirstApp.csprojResolveAssemblyReference.cache
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (14) 01-25-ny label plansum\MyFirstApp\obj\x64\Debug\MyFirstApp.Properties.Resources.resources
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (14) 01-25-ny label plansum\MyFirstApp\obj\x64\Debug\MyFirstApp.csproj.GenerateResource.Cache
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (14) 01-25-ny label plansum - new screen size\MyFirstApp\bin\x64\Debug\MyFirstApp.exe.config
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (14) 01-25-ny label plansum - new screen size\MyFirstApp\obj\x64\Debug\MyFirstApp.exe
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (14) 01-25-ny label plansum - new screen size\MyFirstApp\obj\x64\Debug\MyFirstApp.pdb
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (14) 01-25-ny label plansum - new screen size\MyFirstApp\bin\x64\Debug\MyFirstApp.exe
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (14) 01-25-ny label plansum - new screen size\MyFirstApp\bin\x64\Debug\MyFirstApp.pdb
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (14) 01-25-ny label plansum - new screen size\MyFirstApp\bin\x64\Debug\MyFirstScript.dll
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (14) 01-25-ny label plansum - new screen size\MyFirstApp\bin\x64\Debug\VMS.TPS.Common.Model.API.dll
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (14) 01-25-ny label plansum - new screen size\MyFirstApp\bin\x64\Debug\VMS.TPS.Common.Model.Types.dll
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (14) 01-25-ny label plansum - new screen size\MyFirstApp\bin\x64\Debug\VMS.TPS.Common.Calculation.Interface.dll
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (14) 01-25-ny label plansum - new screen size\MyFirstApp\bin\x64\Debug\VMS.TPS.Common.Model.Interface.dll
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (14) 01-25-ny label plansum - new screen size\MyFirstApp\bin\x64\Debug\MyFirstScript.pdb
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (14) 01-25-ny label plansum - new screen size\MyFirstApp\bin\x64\Debug\VMS.TPS.Common.Model.API.xml
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (14) 01-25-ny label plansum - new screen size\MyFirstApp\bin\x64\Debug\VMS.TPS.Common.Model.Types.pdb
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (14) 01-25-ny label plansum - new screen size\MyFirstApp\bin\x64\Debug\VMS.TPS.Common.Model.Types.xml
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (14) 01-25-ny label plansum - new screen size\MyFirstApp\bin\x64\Debug\VMS.TPS.Common.Model.Interface.pdb
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (14) 01-25-ny label plansum - new screen size\MyFirstApp\obj\x64\Debug\MyFirstApp.csprojResolveAssemblyReference.cache
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (14) 01-25-ny label plansum - new screen size\MyFirstApp\obj\x64\Debug\MyFirstApp.Properties.Resources.resources
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (14) 01-25-ny label plansum - new screen size\MyFirstApp\obj\x64\Debug\MyFirstApp.csproj.GenerateResource.Cache
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (15) plansummekriterier corrected\MyFirstApp\bin\x64\Debug\MyFirstApp.exe.config
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (15) plansummekriterier corrected\MyFirstApp\obj\x64\Debug\MyFirstApp.exe
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (15) plansummekriterier corrected\MyFirstApp\obj\x64\Debug\MyFirstApp.pdb
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (15) plansummekriterier corrected\MyFirstApp\bin\x64\Debug\MyFirstApp.exe
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (15) plansummekriterier corrected\MyFirstApp\bin\x64\Debug\MyFirstApp.pdb
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (15) plansummekriterier corrected\MyFirstApp\bin\x64\Debug\MyFirstScript.dll
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (15) plansummekriterier corrected\MyFirstApp\bin\x64\Debug\VMS.TPS.Common.Model.API.dll
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (15) plansummekriterier corrected\MyFirstApp\bin\x64\Debug\VMS.TPS.Common.Model.Types.dll
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (15) plansummekriterier corrected\MyFirstApp\bin\x64\Debug\VMS.TPS.Common.Calculation.Interface.dll
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (15) plansummekriterier corrected\MyFirstApp\bin\x64\Debug\VMS.TPS.Common.Model.Interface.dll
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (15) plansummekriterier corrected\MyFirstApp\bin\x64\Debug\MyFirstScript.pdb
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (15) plansummekriterier corrected\MyFirstApp\bin\x64\Debug\VMS.TPS.Common.Model.API.xml
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (15) plansummekriterier corrected\MyFirstApp\bin\x64\Debug\VMS.TPS.Common.Model.Types.pdb
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (15) plansummekriterier corrected\MyFirstApp\bin\x64\Debug\VMS.TPS.Common.Model.Types.xml
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (15) plansummekriterier corrected\MyFirstApp\bin\x64\Debug\VMS.TPS.Common.Model.Interface.pdb
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (15) plansummekriterier corrected\MyFirstApp\obj\x64\Debug\MyFirstApp.csprojResolveAssemblyReference.cache
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (15) plansummekriterier corrected\MyFirstApp\obj\x64\Debug\MyFirstApp.Properties.Resources.resources
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (15) plansummekriterier corrected\MyFirstApp\obj\x64\Debug\MyFirstApp.csproj.GenerateResource.Cache
+C:\Users\187646\Documents\Visual Studio 2010\Projects\alla\MyFirstApp - Copy (15) Tror denna e för kliniken\MyFirstApp\bin\x64\Debug\MyFirstApp.exe.config
+C:\Users\187646\Documents\Visual Studio 2010\Projects\alla\MyFirstApp - Copy (15) Tror denna e för kliniken\MyFirstApp\obj\x64\Debug\MyFirstApp.exe
+C:\Users\187646\Documents\Visual Studio 2010\Projects\alla\MyFirstApp - Copy (15) Tror denna e för kliniken\MyFirstApp\obj\x64\Debug\MyFirstApp.pdb
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (15) Tror denna e för kliniken\MyFirstApp\bin\x64\Debug\MyFirstApp.exe.config
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (15) Tror denna e för kliniken\MyFirstApp\obj\x64\Debug\MyFirstApp.exe
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (15) Tror denna e för kliniken\MyFirstApp\obj\x64\Debug\MyFirstApp.pdb
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (15) Tror denna e för kliniken\MyFirstApp\bin\x64\Debug\MyFirstApp.exe
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (15) Tror denna e för kliniken\MyFirstApp\bin\x64\Debug\MyFirstApp.pdb
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (15) Tror denna e för kliniken\MyFirstApp\bin\x64\Debug\MyFirstScript.dll
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (15) Tror denna e för kliniken\MyFirstApp\bin\x64\Debug\VMS.TPS.Common.Calculation.Interface.dll
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (15) Tror denna e för kliniken\MyFirstApp\bin\x64\Debug\VMS.TPS.Common.Model.Interface.dll
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (15) Tror denna e för kliniken\MyFirstApp\bin\x64\Debug\MyFirstScript.pdb
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (15) Tror denna e för kliniken\MyFirstApp\bin\x64\Debug\VMS.TPS.Common.Model.API.xml
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (15) Tror denna e för kliniken\MyFirstApp\bin\x64\Debug\VMS.TPS.Common.Model.Types.pdb
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (15) Tror denna e för kliniken\MyFirstApp\bin\x64\Debug\VMS.TPS.Common.Model.Types.xml
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (15) Tror denna e för kliniken\MyFirstApp\bin\x64\Debug\VMS.TPS.Common.Model.Interface.pdb
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (15) Tror denna e för kliniken\MyFirstApp\obj\x64\Debug\MyFirstApp.csprojResolveAssemblyReference.cache
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (15) Tror denna e för kliniken\MyFirstApp\obj\x64\Debug\MyFirstApp.Properties.Resources.resources
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (15) Tror denna e för kliniken\MyFirstApp\obj\x64\Debug\MyFirstApp.csproj.GenerateResource.Cache
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (15) Tror denna e för kliniken - 05-02\MyFirstApp\bin\x64\Debug\MyFirstApp.exe.config
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (15) Tror denna e för kliniken - 05-02\MyFirstApp\obj\x64\Debug\MyFirstApp.exe
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (15) Tror denna e för kliniken - 05-02\MyFirstApp\obj\x64\Debug\MyFirstApp.pdb
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (15) Tror denna e för kliniken - 05-02\MyFirstApp\bin\x64\Debug\MyFirstApp.exe
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (15) Tror denna e för kliniken - 05-02\MyFirstApp\bin\x64\Debug\MyFirstApp.pdb
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (15) Tror denna e för kliniken - 05-02\MyFirstApp\bin\x64\Debug\MyFirstScript.dll
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (15) Tror denna e för kliniken - 05-02\MyFirstApp\bin\x64\Debug\VMS.TPS.Common.Calculation.Interface.dll
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (15) Tror denna e för kliniken - 05-02\MyFirstApp\bin\x64\Debug\VMS.TPS.Common.Model.Interface.dll
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (15) Tror denna e för kliniken - 05-02\MyFirstApp\bin\x64\Debug\MyFirstScript.pdb
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (15) Tror denna e för kliniken - 05-02\MyFirstApp\bin\x64\Debug\VMS.TPS.Common.Model.API.xml
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (15) Tror denna e för kliniken - 05-02\MyFirstApp\bin\x64\Debug\VMS.TPS.Common.Model.Types.pdb
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (15) Tror denna e för kliniken - 05-02\MyFirstApp\bin\x64\Debug\VMS.TPS.Common.Model.Types.xml
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (15) Tror denna e för kliniken - 05-02\MyFirstApp\bin\x64\Debug\VMS.TPS.Common.Model.Interface.pdb
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (15) Tror denna e för kliniken - 05-02\MyFirstApp\obj\x64\Debug\MyFirstApp.csprojResolveAssemblyReference.cache
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (15) Tror denna e för kliniken - 05-02\MyFirstApp\obj\x64\Debug\MyFirstApp.Properties.Resources.resources
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (15) Tror denna e för kliniken - 05-02\MyFirstApp\obj\x64\Debug\MyFirstApp.csproj.GenerateResource.Cache
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (15) Tror denna e för kliniken - 06-27\MyFirstApp\bin\x64\Debug\MyFirstApp.exe.config
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (15) Tror denna e för kliniken - 06-27\MyFirstApp\obj\x64\Debug\MyFirstApp.exe
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (15) Tror denna e för kliniken - 06-27\MyFirstApp\obj\x64\Debug\MyFirstApp.pdb
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (15) Tror denna e för kliniken - 06-27\MyFirstApp\bin\x64\Debug\MyFirstApp.exe
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (15) Tror denna e för kliniken - 06-27\MyFirstApp\bin\x64\Debug\MyFirstApp.pdb
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (15) Tror denna e för kliniken - 06-27\MyFirstApp\bin\x64\Debug\MyFirstScript.dll
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (15) Tror denna e för kliniken - 06-27\MyFirstApp\bin\x64\Debug\VMS.TPS.Common.Calculation.Interface.dll
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (15) Tror denna e för kliniken - 06-27\MyFirstApp\bin\x64\Debug\VMS.TPS.Common.Model.Interface.dll
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (15) Tror denna e för kliniken - 06-27\MyFirstApp\bin\x64\Debug\MyFirstScript.pdb
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (15) Tror denna e för kliniken - 06-27\MyFirstApp\bin\x64\Debug\VMS.TPS.Common.Model.Types.xml
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (15) Tror denna e för kliniken - 06-27\MyFirstApp\obj\x64\Debug\MyFirstApp.csprojResolveAssemblyReference.cache
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (15) Tror denna e för kliniken - 06-27\MyFirstApp\obj\x64\Debug\MyFirstApp.Properties.Resources.resources
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (15) Tror denna e för kliniken - 06-27\MyFirstApp\obj\x64\Debug\MyFirstApp.csproj.GenerateResource.Cache
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (15) Tror denna e för kliniken - 06-27\MyFirstApp\bin\x64\Debug\VMS.TPS.Common.Model.API.dll
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (15) Tror denna e för kliniken - 06-27\MyFirstApp\bin\x64\Debug\VMS.TPS.Common.Model.Types.dll
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (15) Tror denna e för kliniken - 08-02\MyFirstApp\bin\x64\Debug\MyFirstApp.exe.config
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (15) Tror denna e för kliniken - 08-02\MyFirstApp\obj\x64\Debug\MyFirstApp.exe
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (15) Tror denna e för kliniken - 08-02\MyFirstApp\obj\x64\Debug\MyFirstApp.pdb
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (15) Tror denna e för kliniken - 08-02\MyFirstApp\bin\x64\Debug\MyFirstApp.exe
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (15) Tror denna e för kliniken - 08-02\MyFirstApp\bin\x64\Debug\MyFirstApp.pdb
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (15) Tror denna e för kliniken - 08-02\MyFirstApp\bin\x64\Debug\VMS.TPS.Common.Model.API.dll
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (15) Tror denna e för kliniken - 08-02\MyFirstApp\bin\x64\Debug\VMS.TPS.Common.Model.Interface.dll
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (15) Tror denna e för kliniken - 08-02\MyFirstApp\bin\x64\Debug\VMS.TPS.Common.Model.Types.dll
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (15) Tror denna e för kliniken - 08-02\MyFirstApp\bin\x64\Debug\VMS.TPS.Common.Calculation.Interface.dll
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (15) Tror denna e för kliniken - 08-02\MyFirstApp\bin\x64\Debug\VMS.TPS.Common.Model.Types.xml
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (15) Tror denna e för kliniken - 08-02\MyFirstApp\obj\x64\Debug\MyFirstApp.csprojResolveAssemblyReference.cache
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (15) Tror denna e för kliniken - 08-02\MyFirstApp\obj\x64\Debug\MyFirstApp.Properties.Resources.resources
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (15) Tror denna e för kliniken - 08-02\MyFirstApp\obj\x64\Debug\MyFirstApp.csproj.GenerateResource.Cache
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (15) Tror denna e för kliniken - 08-02\MyFirstApp\bin\x64\Debug\PlanChecker.dll
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (15) Tror denna e för kliniken - 08-02\MyFirstApp\bin\x64\Debug\PlanChecker.pdb
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (15) Tror denna e för kliniken - 08-02-working from here 0805\MyFirstApp\bin\x64\Debug\MyFirstApp.exe.config
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (15) Tror denna e för kliniken - 08-02-working from here 0805\MyFirstApp\obj\x64\Debug\MyFirstApp.exe
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (15) Tror denna e för kliniken - 08-02-working from here 0805\MyFirstApp\obj\x64\Debug\MyFirstApp.pdb
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (15) Tror denna e för kliniken - 08-02-working from here 0805\MyFirstApp\obj\x64\Debug\MyFirstApp.csprojResolveAssemblyReference.cache
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (15) Tror denna e för kliniken - 08-02-working from here 0805\MyFirstApp\obj\x64\Debug\MyFirstApp.Properties.Resources.resources
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (15) Tror denna e för kliniken - 08-02-working from here 0805\MyFirstApp\obj\x64\Debug\MyFirstApp.csproj.GenerateResource.Cache
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (15) Tror denna e för kliniken - 08-02-working from here 0805\MyFirstApp\bin\x64\Debug\MyFirstApp.exe
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (15) Tror denna e för kliniken - 08-02-working from here 0805\MyFirstApp\bin\x64\Debug\MyFirstApp.pdb
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (15) Tror denna e för kliniken - 08-02-working from here 0805\MyFirstApp\bin\x64\Debug\VMS.TPS.Common.Model.API.dll
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (15) Tror denna e för kliniken - 08-02-working from here 0805\MyFirstApp\bin\x64\Debug\VMS.TPS.Common.Model.Interface.dll
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (15) Tror denna e för kliniken - 08-02-working from here 0805\MyFirstApp\bin\x64\Debug\VMS.TPS.Common.Model.Types.dll
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (15) Tror denna e för kliniken - 08-02-working from here 0805\MyFirstApp\bin\x64\Debug\PlanChecker.esapi.dll
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (15) Tror denna e för kliniken - 08-02-working from here 0805\MyFirstApp\bin\x64\Debug\PlanChecker.esapi.pdb
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (15) Tror denna e för kliniken - 08-02-working from here 0805\MyFirstApp\obj\x64\Debug\MyFirstApp.GroupInvestigation.resources
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (15) Tror denna e för kliniken - 08-02-working from here 0805\MyFirstApp\bin\x64\Debug\PlanCheckerGroup.exe.config

@@ -1,0 +1,20 @@
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (15) Tror denna e för kliniken - 08-02-working from here 0805\MyFirstApp\bin\x64\Debug\PlanCheckerGroup.exe.config
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (15) Tror denna e för kliniken - 08-02-working from here 0805\MyFirstApp\bin\x64\Debug\PlanCheckerGroup.exe
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (15) Tror denna e för kliniken - 08-02-working from here 0805\MyFirstApp\bin\x64\Debug\PlanCheckerGroup.pdb
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (15) Tror denna e för kliniken - 08-02-working from here 0805\MyFirstApp\bin\x64\Debug\PlanChecker.esapi.dll
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (15) Tror denna e för kliniken - 08-02-working from here 0805\MyFirstApp\bin\x64\Debug\VMS.TPS.Common.Model.API.dll
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (15) Tror denna e för kliniken - 08-02-working from here 0805\MyFirstApp\bin\x64\Debug\VMS.TPS.Common.Model.Interface.dll
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (15) Tror denna e för kliniken - 08-02-working from here 0805\MyFirstApp\bin\x64\Debug\VMS.TPS.Common.Model.Types.dll
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (15) Tror denna e för kliniken - 08-02-working from here 0805\MyFirstApp\bin\x64\Debug\PlanChecker.esapi.pdb
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (15) Tror denna e för kliniken - 08-02-working from here 0805\MyFirstApp\obj\x64\Debug\PlanCheckerGroup.csprojResolveAssemblyReference.cache
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (15) Tror denna e för kliniken - 08-02-working from here 0805\MyFirstApp\obj\x64\Debug\PlanCheckerGroup.GroupInvestigation.resources
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (15) Tror denna e för kliniken - 08-02-working from here 0805\MyFirstApp\obj\x64\Debug\PlanCheckerGroup.Properties.Resources.resources
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (15) Tror denna e för kliniken - 08-02-working from here 0805\MyFirstApp\obj\x64\Debug\PlanCheckerGroup.csproj.GenerateResource.Cache
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (15) Tror denna e för kliniken - 08-02-working from here 0805\MyFirstApp\obj\x64\Debug\PlanCheckerGroup.exe
+C:\Users\187646\Documents\Visual Studio 2010\Projects\MyFirstApp - Copy (15) Tror denna e för kliniken - 08-02-working from here 0805\MyFirstApp\obj\x64\Debug\PlanCheckerGroup.pdb
+C:\Users\jonni\Downloads\MyFirstApp - Copy (15) Tror denna e för kliniken - 08-02-working from here 0805\MyFirstApp - Copy (15) Tror denna e för kliniken - 08-02-working from here 0805\MyFirstApp\bin\x64\Debug\PlanCheckerGroup.exe.config
+C:\Users\jonni\Downloads\MyFirstApp - Copy (15) Tror denna e för kliniken - 08-02-working from here 0805\MyFirstApp - Copy (15) Tror denna e för kliniken - 08-02-working from here 0805\MyFirstApp\obj\x64\Debug\PlanCheckerGroup.exe
+C:\Users\jonni\Downloads\MyFirstApp - Copy (15) Tror denna e för kliniken - 08-02-working from here 0805\MyFirstApp - Copy (15) Tror denna e för kliniken - 08-02-working from here 0805\MyFirstApp\obj\x64\Debug\PlanCheckerGroup.pdb
+C:\Users\jonni\Downloads\PlanChecker\PlanChecker\MyFirstApp\bin\x64\Debug\PlanCheckerGroup.exe.config
+C:\Users\jonni\Downloads\PlanChecker\PlanChecker\MyFirstApp\obj\x64\Debug\PlanCheckerGroup.exe
+C:\Users\jonni\Downloads\PlanChecker\PlanChecker\MyFirstApp\obj\x64\Debug\PlanCheckerGroup.pdb
