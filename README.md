@@ -54,6 +54,6 @@ I want to acknowledge Fredrik Nordström (Sahlgrenska University hospital) for s
 and thus acting as a mentor and friend. I also want to thanks Rex Cardan (UAB) for the information he put online about Eclipse and
 acknowledge Elinore Wieslander and my colleges at Skånes University hospital for their valuable feedback of this project.
 
-
+notes: only use one copy of the script. Have the same iso center shifts in your uncertainty plans, dont name nomral plans in the fashion U followed by numbers since this is the signature of an uncertainty plan.
 
 
