@@ -1,6 +1,6 @@
 I have developed this open source project for automatic radiation dose distribution evaluation for Varian Eclipse version 13.6 as one 
 of my side projects while working clinically in Skånes University Hospital as a medical physicist on the radiotherapy department.
-It is provided with the GNU 3 license, fee to use, free to modify, free to distribute, contributions must remain open source. 
+It is provided with the GNU 3 license, free to use, free to modify, free to distribute, contributions must remain open source. 
 No legal responsibility or warranty is provided. The project contains two parts; one script part meant for clinical use and one 
 application part meant for scientific studies. 
 
